@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 120 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 120 50">
   <!-- Left angle bracket "<" -->
   <line x1="10" y1="25" x2="25" y2="10" stroke="#0000ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
   <line x1="10" y1="25" x2="25" y2="40" stroke="#0000ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
